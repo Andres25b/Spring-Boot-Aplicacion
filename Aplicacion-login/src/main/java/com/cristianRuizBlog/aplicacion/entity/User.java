@@ -67,11 +67,11 @@ public class User implements Serializable {
 		this.id = id;
 	}
 
-	public String getFirtName() {
+	public String getFirstName() {
 		return firstName;
 	}
 
-	public void setFirtName(String firtName) {
+	public void setFirstName(String firtName) {
 		this.firstName = firtName;
 	}
 
